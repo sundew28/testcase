@@ -57,9 +57,9 @@ JWT_ALGO=HS256
 
 The API endpoint require a "get" request to be made which is already made mandatory in the api route file for secure transfer of data.
 
-### Task 
+### Workflow 
 
-The instructions were to call API end point to grab products.
+The purpose of the API end point is to grab random 5 products.
 
 Login :
 
