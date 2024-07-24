@@ -55,7 +55,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://we3world'),
+    'url' => env('APP_URL', 'http://charles.george'),
 
     'asset_url' => env('ASSET_URL'),
 

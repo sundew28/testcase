@@ -1,4 +1,4 @@
-# We3World Code Test
+# A App to showcase
 
 An application to send API request and receive response as JSON. I have used laravel 10 framework to create the application and JWT to set up the authentication.
 
@@ -14,7 +14,7 @@ An application to send API request and receive response as JSON. I have used lar
 Clone the repo to your working directory using your favorite CLI console (eg: GitBash, PowerShell, cmd or any of your choice) 
 
 ```bash
-$ git clone https://github.com/sundew28/we3world.git
+$ git clone https://github.com/sundew28/testcase.git
 ```
 
 Once you are done cloning the repo next would be to run composer in your console to install laravel framework dependencies by running the below composer command. Make sure you have composer installed
@@ -35,7 +35,7 @@ This would create all the basic tables to run your application smoothly. I have 
 
 ```php
 // User account
-   Email : admin@artlume.io
+   Email : admin@charles.george.com
    Password : adminadmin
 ```
 

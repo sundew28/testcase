@@ -20,14 +20,14 @@ class UsersSeeder extends Seeder
         if (User::where('email', '=', 'admin@artlume.io')->first() === null) {
 
             $newUser = User::create([
-                'name' => 'We3World',
-                'email' => 'admin@artlume.io',
+                'name' => 'Charles',
+                'email' => 'admin@charles.george.com',
                 'password' => bcrypt('adminadmin'),
             ]);
 
             $newTestUser = User::create([
-                'name' => 'We3World',
-                'email' => 'test@artlume.io',
+                'name' => 'TestAdmin',
+                'email' => 'test@charles.george.com',
                 'password' => bcrypt('adminadmin'),
             ]);
 
